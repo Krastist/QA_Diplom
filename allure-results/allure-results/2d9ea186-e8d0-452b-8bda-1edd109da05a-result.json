@@ -1,0 +1,161 @@
+{
+    "name": "shouldNewsControlPanelBeOpened",
+    "start": 1734335002772,
+    "stop": 1734335011258,
+    "stage": "finished",
+    "description": "Проверка открытия панели управления новостями",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Проверка, отображается ли экран логина...",
+            "start": 1734335003572,
+            "stop": 1734335003572,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Экран логина не отображается.",
+            "start": 1734335009082,
+            "stop": 1734335009082,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик на кнопку с ID = 2131231039mainMenuClick()",
+            "start": 1734335009087,
+            "stop": 1734335009087,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выбор элемента меню с TEXT = News",
+            "start": 1734335009664,
+            "stop": 1734335009664,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик на кнопку с ID = 2131230959(controlPanelEnter())",
+            "start": 1734335010068,
+            "stop": 1734335010069,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка отображения Control Panel.",
+            "start": 1734335010590,
+            "stop": 1734335010590,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "2d9ea186-e8d0-452b-8bda-1edd109da05a",
+    "historyId": "73d6bd76b33d29adf759e2ab7b8c5440",
+    "fullName": "ru.iteco.fmhandroid.test.NewsControlPanelTest.shouldNewsControlPanelBeOpened",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.test"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.test.NewsControlPanelTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldNewsControlPanelBeOpened"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.test.NewsControlPanelTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(721)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Основные функциональные тесты"
+        },
+        {
+            "name": "feature",
+            "value": "Панель управления новостями"
+        },
+        {
+            "name": "severity",
+            "value": "blocker"
+        }
+    ]
+}

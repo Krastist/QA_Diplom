@@ -1,0 +1,173 @@
+{
+    "name": "shouldNavigateFromNewsToMain",
+    "start": 1734334895934,
+    "stop": 1734334905463,
+    "stage": "finished",
+    "description": "Проверка перехода с экрана Новости на главный экран",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Проверка, отображается ли экран логина...",
+            "start": 1734334896719,
+            "stop": 1734334896719,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Экран логина не отображается.",
+            "start": 1734334902332,
+            "stop": 1734334902332,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик на кнопку с ID = 2131231039mainMenuClick()",
+            "start": 1734334902339,
+            "stop": 1734334902339,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выбор элемента меню с TEXT = News",
+            "start": 1734334902852,
+            "stop": 1734334902852,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик на кнопку с ID = 2131231039mainMenuClick()",
+            "start": 1734334903420,
+            "stop": 1734334903420,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выбор элемента меню с TEXT = Main",
+            "start": 1734334904005,
+            "stop": 1734334904005,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка отображения экрана Main.",
+            "start": 1734334904666,
+            "stop": 1734334904666,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "1bb5b86a-1957-45fa-b722-9deb76cd7e76",
+    "historyId": "c7ec1fe8877116e19416d78d21e1bd9a",
+    "fullName": "ru.iteco.fmhandroid.test.AppMainTest.shouldNavigateFromNewsToMain",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.test"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.test.AppMainTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldNavigateFromNewsToMain"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.test.AppMainTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(721)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Основные функциональные тесты"
+        },
+        {
+            "name": "feature",
+            "value": "Открытие экранов и переходы между ними"
+        }
+    ]
+}

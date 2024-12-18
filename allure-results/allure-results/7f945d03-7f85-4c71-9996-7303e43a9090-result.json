@@ -1,0 +1,177 @@
+{
+    "name": "shouldMissionScreenBeOpened",
+    "start": 1734432170225,
+    "stop": 1734432177435,
+    "stage": "finished",
+    "description": "Проверка открытия экрана Mission",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Проверка, отображается ли экран логина...",
+            "start": 1734432170780,
+            "stop": 1734432170780,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Экран логина отображается.",
+            "start": 1734432173639,
+            "stop": 1734432173639,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Заполнение поля Login = login2",
+            "start": 1734432173651,
+            "stop": 1734432173651,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Заполнение поля Password = password2",
+            "start": 1734432174808,
+            "stop": 1734432174808,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по кнопке с ID = 2131230969(clickEnterButton())",
+            "start": 1734432175805,
+            "stop": 1734432175805,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик на кнопку с ID = 2131231160(missionButtonClick())",
+            "start": 1734432176484,
+            "stop": 1734432176484,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка отображения экрана Mission.",
+            "start": 1734432177003,
+            "stop": 1734432177003,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "7f945d03-7f85-4c71-9996-7303e43a9090",
+    "historyId": "b4a629caf56d0f8dc8dfb3e091cbe180",
+    "fullName": "ru.iteco.fmhandroid.test.DashboardTest.shouldMissionScreenBeOpened",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.test"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.test.DashboardTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldMissionScreenBeOpened"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.test.DashboardTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(791)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Основные функциональные тесты"
+        },
+        {
+            "name": "feature",
+            "value": "Открытие экранов и переходы между ними"
+        },
+        {
+            "name": "severity",
+            "value": "minor"
+        }
+    ]
+}

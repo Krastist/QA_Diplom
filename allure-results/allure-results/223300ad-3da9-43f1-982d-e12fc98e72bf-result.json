@@ -1,0 +1,353 @@
+{
+    "name": "shouldAddValidNews",
+    "start": 1734334970485,
+    "stop": 1734334984534,
+    "stage": "finished",
+    "description": "Проверка добавления валидной новости",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Проверка, отображается ли экран логина...",
+            "start": 1734334971180,
+            "stop": 1734334971180,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Экран логина не отображается.",
+            "start": 1734334976746,
+            "stop": 1734334976746,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик на кнопку с ID = 2131231039mainMenuClick()",
+            "start": 1734334976751,
+            "stop": 1734334976751,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выбор элемента меню с TEXT = News",
+            "start": 1734334977329,
+            "stop": 1734334977329,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик на кнопку с ID = 2131230959(controlPanelEnter())",
+            "start": 1734334977804,
+            "stop": 1734334977804,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик на кнопку с ID = 2131230826(addNewsButtonClick())",
+            "start": 1734334978516,
+            "stop": 1734334978516,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выбор категории создаваемой новости: Объявление",
+            "start": 1734334979123,
+            "stop": 1734334979123,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик на дропдаун с категориями создаваемых новостей с ID = 2131231291",
+            "start": 1734334979124,
+            "stop": 1734334979124,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Ввод категории в поле с ID = 2131231119",
+            "start": 1734334979709,
+            "stop": 1734334979709,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Заполнение текстового поля с ID = 2131231142",
+            "start": 1734334979818,
+            "stop": 1734334979818,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Заполнение текстового поля с ID = 2131231126",
+            "start": 1734334979876,
+            "stop": 1734334979876,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выбор даты =  (если пустая, то берется текущая)",
+            "start": 1734334979906,
+            "stop": 1734334979906,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выбор времени =  (если пустое, то берется текущее)",
+            "start": 1734334981180,
+            "stop": 1734334981180,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по кнопке с ID = 2131231198(clickSaveButton())",
+            "start": 1734334982107,
+            "stop": 1734334982107,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик на кнопку с ID = 2131231039mainMenuClick()",
+            "start": 1734334982591,
+            "stop": 1734334982591,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выбор элемента меню с TEXT = News",
+            "start": 1734334983129,
+            "stop": 1734334983129,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик на первую новость в RecyclerView с ID = 2131231145 (isNewsPublished())",
+            "start": 1734334983666,
+            "stop": 1734334983666,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка наличия Description = Description of default news",
+            "start": 1734334983997,
+            "stop": 1734334983997,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "223300ad-3da9-43f1-982d-e12fc98e72bf",
+    "historyId": "501511abd491995f15180ffea174b678",
+    "fullName": "ru.iteco.fmhandroid.test.NewsControlPanelTest.shouldAddValidNews",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.test"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.test.NewsControlPanelTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldAddValidNews"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.test.NewsControlPanelTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(721)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Основные функциональные тесты"
+        },
+        {
+            "name": "feature",
+            "value": "Панель управления новостями"
+        },
+        {
+            "name": "severity",
+            "value": "blocker"
+        }
+    ]
+}

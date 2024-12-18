@@ -1,0 +1,145 @@
+{
+    "name": "shouldAboutScreenBeOpened",
+    "start": 1734432185754,
+    "stop": 1734432193373,
+    "stage": "finished",
+    "description": "Проверка открытия экрана About",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Проверка, отображается ли экран логина...",
+            "start": 1734432186300,
+            "stop": 1734432186301,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Экран логина не отображается.",
+            "start": 1734432191945,
+            "stop": 1734432191945,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик на кнопку с ID = 2131231039mainMenuClick()",
+            "start": 1734432191952,
+            "stop": 1734432191952,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выбор элемента меню с TEXT = About",
+            "start": 1734432192569,
+            "stop": 1734432192570,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка отображения экрана About.",
+            "start": 1734432192866,
+            "stop": 1734432192866,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "1e9dbd4b-6678-4a9d-b597-06825814528a",
+    "historyId": "a3fd96ea2d45e2accc3c01ea3a19fa1a",
+    "fullName": "ru.iteco.fmhandroid.test.DashboardTest.shouldAboutScreenBeOpened",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.test"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.test.DashboardTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldAboutScreenBeOpened"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.test.DashboardTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(791)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Основные функциональные тесты"
+        },
+        {
+            "name": "feature",
+            "value": "Открытие экранов и переходы между ними"
+        },
+        {
+            "name": "severity",
+            "value": "minor"
+        }
+    ]
+}

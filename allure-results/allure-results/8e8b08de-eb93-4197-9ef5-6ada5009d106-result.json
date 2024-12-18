@@ -1,0 +1,209 @@
+{
+    "name": "shouldNotEmptyLoginPassword",
+    "start": 1734335823188,
+    "stop": 1734335828712,
+    "stage": "finished",
+    "description": "Проверка авторизации при незаполненных полях логин/пароль",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Проверка, залогинен ли пользователь...",
+            "start": 1734335823834,
+            "stop": 1734335823835,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка, отображается ли экран логина...",
+            "start": 1734335823835,
+            "stop": 1734335823835,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Экран логина отображается.",
+            "start": 1734335826752,
+            "stop": 1734335826752,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Не залогинен.",
+            "start": 1734335826752,
+            "stop": 1734335826752,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Заполнение поля Login = ",
+            "start": 1734335826976,
+            "stop": 1734335826976,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Заполнение поля Password = ",
+            "start": 1734335827011,
+            "stop": 1734335827012,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по кнопке с ID = 2131230969(clickEnterButton())",
+            "start": 1734335827031,
+            "stop": 1734335827031,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка, отображается ли экран логина...",
+            "start": 1734335827490,
+            "stop": 1734335827490,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Экран логина отображается.",
+            "start": 1734335827513,
+            "stop": 1734335827513,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "8e8b08de-eb93-4197-9ef5-6ada5009d106",
+    "historyId": "974f618d47b0250cc2b0c62485a4947f",
+    "fullName": "ru.iteco.fmhandroid.test.AuthorizationTest.shouldNotEmptyLoginPassword",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.test"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.test.AuthorizationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldNotEmptyLoginPassword"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.test.AuthorizationTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(741)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Основные функциональные тесты"
+        },
+        {
+            "name": "feature",
+            "value": "Авторизация"
+        },
+        {
+            "name": "severity",
+            "value": "normal"
+        }
+    ]
+}
